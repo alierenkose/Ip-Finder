@@ -1,2 +1,2 @@
-# Ip-Finer.py
-Both Local and Public Ip Finder
+# Ip-Finder.py
+Both Local and Public Ip Finder EN
